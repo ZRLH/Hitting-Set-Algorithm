@@ -1,0 +1,3 @@
+先进行 	100 或 200 轮 N18 num_subsets = 90
+
+然后进行	2000 轮 N18 num_subsets = 90
